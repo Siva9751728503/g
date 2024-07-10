@@ -1,0 +1,37 @@
+body{
+    background-image:url('https://img.freepik.com/free-vector/colorful-wavy-background_23-2147640282.jpg?t=st=1703145715~exp=1703146315~hmac=8b391b012f403a3ba83197fc3c9d8f35be08d1fdc6fdf55bf475c2b4af9c9e77');
+
+    background-size: cover;
+    background-attachment:fixed;
+
+    
+}
+guessInput{
+    size: 30px;
+}
+h3{
+    color:red;
+    font-size:30vh;
+
+}
+div{
+    color: rgb(red, green, blue);
+}
+ol{
+    color: rgb(rgb(214, 45, 45), rgb(207, 194, 194), blue);
+}
+th{
+    color: rgb(red, green, blue);
+}
+p{
+    font-size: 30px;
+    font-style: italic;
+    color:rgb(8, 7, 8);
+}
+h2{
+    color:rgb(255, 0, 0);
+    font-size: 40px;
+    /* background-color: aqua; */
+
+
+}    
